@@ -1,0 +1,16 @@
+.container{
+  height: 200px;
+  width: 350px;
+}
+input{
+  width: 50px;
+}
+.min-max{
+  display: flex;
+  justify-content: space-evenly;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
